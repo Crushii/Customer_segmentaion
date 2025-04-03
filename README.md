@@ -1,6 +1,9 @@
 
-segment customers into distinct clusters based on various features using KMeans clustering.
 Summary of the Notebook: Customer Segmentation Using Unsupervised Machine Learning  
+
+![customer segments](https://github.com/user-attachments/assets/52385f47-9c5d-4f2b-963c-61b703847856)
+
+
 
 Objective: The project aims to segment customers into distinct groups based on various features (such as purchasing behaviour, demographics, and engagement) using K-Means clustering. The goal is to help businesses understand their customer base for personalized marketing and strategic decision-making.
 
